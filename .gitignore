@@ -1,0 +1,5 @@
+VStudioProjects/*
+.vscode/*
+.build/
+build/
+tmp/
